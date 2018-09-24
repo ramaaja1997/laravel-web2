@@ -40,10 +40,10 @@
                 <a href="/">Home</a>
             </li>
             <li>
-                <a href="#">- Sidebar 1</a>
+                <a href="/halaman2">- Halaman 2</a>
             </li>
             <li>
-                <a href="#">- Sidebar 2</a>
+                <a href="/halaman3">- Halaman 3</a>
             </li>
         </ul>
     </aside>
@@ -64,4 +64,5 @@
 <script src="/assets/js/custom.js"></script>
 </body>
 
+</html>
 </html>
