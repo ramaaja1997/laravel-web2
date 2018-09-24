@@ -6,7 +6,7 @@
         <div class="content">
             <!-- Remove This Before You Start -->
             <h1>Laravel 5.4</h1>
-            <p>Ini halaman tiga</p>
+            <p>Ini halaman tiga1</p>
         </div>
         <!-- /.content -->
     </section>
